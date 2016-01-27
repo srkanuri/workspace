@@ -1,0 +1,5 @@
+_viminfo
+*.rkt~
+*.hs~
+.emacs~
+*.bash_history
