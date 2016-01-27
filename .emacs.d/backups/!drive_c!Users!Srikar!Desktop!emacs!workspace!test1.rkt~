@@ -1,0 +1,4 @@
+(define test
+  (lambda (t1)
+    (if (zero? t1) 'Zero 'Non-Zero)))
+
