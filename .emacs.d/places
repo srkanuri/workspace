@@ -1,0 +1,33 @@
+;;; -*- coding: utf-8 -*-
+(("c:/Users/Srikar/Desktop/emacs/workspace/.emacs" . 5382)
+ ("c:/Users/Srikar/Desktop/emacs/workspace/.emacs.d/elpa/"
+  (dired-filename . "c:/Users/Srikar/Desktop/emacs/workspace/.emacs.d/elpa/.."))
+ ("c:/Users/Srikar/Desktop/emacs/workspace/.emacs.d/.git/branches/"
+  (dired-filename . "c:/Users/Srikar/Desktop/emacs/workspace/.emacs.d/.git/branches/.."))
+ ("c:/Users/Srikar/Desktop/emacs/workspace/.emacs.d/.git/"
+  (dired-filename . "c:/Users/Srikar/Desktop/emacs/workspace/.emacs.d/.git/.."))
+ ("c:/Users/Srikar/Desktop/emacs/workspace/.emacs.d/"
+  (dired-filename . "c:/Users/Srikar/Desktop/emacs/workspace/.emacs.d/elpa"))
+ ("c:/Users/Srikar/Desktop/emacs/workspace/test1.rkt" . 13)
+ ("c:/Users/Srikar/Desktop/emacs/workspace/.emacs.d/elpa/magit-2.4.1/magit-autoloads.el" . 48445)
+ ("c:/Users/Srikar/Desktop/emacs/workspace/.emacs.d/elpa/magit-popup-2.4.1/magit-popup-autoloads.el" . 260)
+ ("c:/Users/Srikar/Desktop/emacs/workspace/hello.py" . 21)
+ ("c:/Users/Srikar/Desktop/emacs/workspace/.emacs.d/elpa/helm-dash-1.2.0/helm-dash-autoloads.el" . 996)
+ ("c:/Users/Srikar/Desktop/emacs/workspace/.emacs.d/elpa/elpy-1.10.0/elpy-autoloads.el" . 1047)
+ ("c:/Users/Srikar/Desktop/emacs/workspace/.emacs.d/elpa/pyvenv-1.9/pyvenv-autoloads.el" . 1879)
+ ("c:/Users/Srikar/Desktop/emacs/workspace/.emacs.d/elpa/pythonic-0.1.0/pythonic-autoloads.el" . 464)
+ ("c:/Users/Srikar/Desktop/emacs/workspace/.emacs.d/elpa/f-0.17.3/f-autoloads.el" . 211)
+ ("c:/Users/Srikar/Desktop/emacs/workspace/.emacs.d/elpa/flycheck-haskell-0.7.2/flycheck-haskell-autoloads.el" . 722)
+ ("c:/Users/Srikar/Desktop/emacs/workspace/.emacs.d/elpa/flycheck-0.25.1/flycheck-autoloads.el" . 8336)
+ ("c:/Users/Srikar/Desktop/emacs/workspace/.emacs.d/elpa/pkg-info-0.6/pkg-info-autoloads.el" . 3738)
+ ("c:/Users/Srikar/Desktop/emacs/workspace/.emacs.d/elpa/epl-0.8/epl-autoloads.el" . 215)
+ ("c:/Users/Srikar/Desktop/emacs/workspace/.emacs.d/elpa/seq-1.11/seq-autoloads.el" . 215)
+ ("c:/Users/Srikar/Desktop/emacs/workspace/.emacs.d/elpa/let-alist-1.0.4/let-alist-autoloads.el" . 1234)
+ ("c:/Users/Srikar/Desktop/emacs/workspace/.emacs.d/elpa/py-autopep8-0.7.0/py-autopep8-autoloads.el" . 629)
+ ("c:/Users/Srikar/Desktop/emacs/workspace/.emacs.d/elpa/company-0.8.12/company-autoloads.el" . 8479)
+ ("c:/Users/Srikar/Desktop/emacs/workspace/.emacs.d/elpa/find-file-in-project-4.5/find-file-in-project-autoloads.el" . 3062)
+ ("c:/Users/Srikar/Desktop/emacs/workspace/.emacs.d/elpa/swiper-0.7.0/swiper-autoloads.el" . 2401)
+ ("c:/Users/Srikar/Desktop/emacs/workspace/.emacs.d/elpa/highlight-indentation-0.7.0/highlight-indentation-autoloads.el" . 937)
+ ("c:/Users/Srikar/Desktop/emacs/workspace/.emacs.d/elpa/yasnippet-0.9.0.1/yasnippet-autoloads.el" . 1512)
+ ("c:/Users/Srikar/Desktop/emacs/workspace/.emacs.d/elpa/ein-0.7.1/ein-autoloads.el" . 11227)
+ ("c:/Users/Srikar/Desktop/emacs/workspace/.emacs.d/elpa/websocket-1.5/websocket-autoloads.el" . 285))
