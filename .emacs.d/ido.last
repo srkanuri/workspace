@@ -1,0 +1,39 @@
+;;; -*- coding: utf-8 -*-
+
+;; ----- ido-last-directory-list -----
+(
+ ("c:/Users/Srikar/Desktop/emacs/" . "workspace/")
+ ("c:/Users/Srikar/Desktop/523/Assignments/" . "P423-523/")
+ ("c:/Users/Srikar/Desktop/523/" . "Assignments/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+ "c:/Users/Srikar/Desktop/emacs/workspace/"
+ "c:/Users/Srikar/Desktop/523/Assignments/P423-523/"
+)
+
+;; ----- ido-work-file-list -----
+(
+ ".emacs"
+ "hello.py"
+ "compiler.rkt"
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ ("c:/Users/Srikar/Desktop/emacs/workspace/" (22185 45440 0 0) "_viminfo" "test1.rkt~" "test1.rkt" "lib/" "hello.py" "hello.hs~" "hello.hs" "hamlet.txt" ".gitignore" ".git/" ".emacs~" ".emacs.d/" ".emacs" ".bash_history" "../" "./")
+
+ ("c:/Users/Srikar/Desktop/523/Assignments/P423-523/" (22185 14991 0 0) "utilities.rkt" "tests/" "runtime.h" "runtime.c" "README.md" "interp.rkt" "grade" "compiler.rkt" "compiler.bak" "compiled/" "a2-test.rkt" ".gitignore" ".git/" ".DS_Store" "../" "./")
+
+ ("c:/Users/Srikar/Desktop/523/Assignments/" (22184 63192 0 0) "P523/" "p423-public-code/" "P423-523/" "old/" "../" "./")
+
+ ("c:/Users/Srikar/Desktop/523/" (22173 28009 0 0) "R1.rkt" "R1.bak" "Carl Code/" "Assignments/" "../" "./")
+
+ ("c:/Users/Srikar/Desktop/" (22185 14281 0 0) "_emacs.txt~" "_emacs.txt" "WireDetails.txt" "WinSCP/" "WallWatcher/" "vim/" "Vandana_Passport/" "VandanaResume.doc" "VandanaKolli_30Sep2015.doc" "untitled-1.pdf" "Thumbs.db" "Sublime Text Build 3083 x64/" "statements.pdf" "statements (1).pdf" "Start Tor Browser.lnk" "Srikanth_Pic.jpg" "Spotify.lnk" "Speccy64.exe - Shortcut.lnk" "SMM/" "rktemacs.txt" "ResumeSrikanth.doc" "random_detail.jpg" "putty.exe" "plf text.pdf" "pcl_1845_1447779292.pdf" "pcl_1844_1447779294.pdf" "nvidiaInspector.exe - Shortcut.lnk" "notes.pdf" "N0uy3hr.png" "MX-1810U_20150723_201010_001.jpg" "Isabelle2015/" "insurance card.pdf" "hw1.pdf" "Hello.py~" "Hello.py" "GitHub.appref-ms" "Git Shell.lnk" "Games/" "functional_programming_wallpaper_by_queckezz-d8tg4fd.png" "functional_js-2.png" "FileReader.py" "Essentials_of_Compilation.pdf" "employ_app1.pdf.~tmp" "emacs.exe.lnk" "emacs-schemer-reference-card.pdf" "emacs/" "Drainpipe..txt" "Dota 2.url" "desktop.ini" "CompilingWithContinuationsContinued.pdf" "ClassSchedule.txt" "Chrome App Launcher.lnk" "CCleaner64.exe - Shortcut.lnk" "cc.txt" "Capture1.JPG" "Capture.JPG" "BursarStatement.pdf" "Box Sync.lnk" "Bills/" "Atom.lnk" "551/" "523/" "521/" "501/" "0003570314-4158.pdf" "#_emacs.txt#" "../" "./")
+
+ ("c:/Users/Srikar/Desktop/emacs/" (22185 14676 0 0) "workspace/" "var/" "share/" "libexec/" "git/" "bin/" "../" "./")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t

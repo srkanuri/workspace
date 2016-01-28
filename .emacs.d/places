@@ -1,5 +1,13 @@
 ;;; -*- coding: utf-8 -*-
-(("c:/Users/Srikar/Desktop/emacs/workspace/.emacs" . 5382)
+(("c:/Users/Srikar/Desktop/emacs/workspace/.emacs" . 133)
+ ("c:/Users/Srikar/Desktop/523/Assignments/"
+  (dired-filename . "c:/Users/Srikar/Desktop/523/Assignments/P423-523"))
+ ("c:/Users/Srikar/Desktop/523/Assignments/P423-523/"
+  (dired-filename . "c:/Users/Srikar/Desktop/523/Assignments/P423-523/compiler.rkt"))
+ ("c:/Users/Srikar/Desktop/523/Assignments/P423-523/compiler.rkt" . 6316)
+ ("c:/Users/Srikar/Desktop/"
+  (dired-filename . "c:/Users/Srikar/Desktop/Essentials_of_Compilation.pdf"))
+ ("c:/Users/Srikar/Desktop/emacs/workspace/hello.py" . 151)
  ("c:/Users/Srikar/Desktop/emacs/workspace/.emacs.d/elpa/"
   (dired-filename . "c:/Users/Srikar/Desktop/emacs/workspace/.emacs.d/elpa/.."))
  ("c:/Users/Srikar/Desktop/emacs/workspace/.emacs.d/.git/branches/"
@@ -11,7 +19,6 @@
  ("c:/Users/Srikar/Desktop/emacs/workspace/test1.rkt" . 13)
  ("c:/Users/Srikar/Desktop/emacs/workspace/.emacs.d/elpa/magit-2.4.1/magit-autoloads.el" . 48445)
  ("c:/Users/Srikar/Desktop/emacs/workspace/.emacs.d/elpa/magit-popup-2.4.1/magit-popup-autoloads.el" . 260)
- ("c:/Users/Srikar/Desktop/emacs/workspace/hello.py" . 21)
  ("c:/Users/Srikar/Desktop/emacs/workspace/.emacs.d/elpa/helm-dash-1.2.0/helm-dash-autoloads.el" . 996)
  ("c:/Users/Srikar/Desktop/emacs/workspace/.emacs.d/elpa/elpy-1.10.0/elpy-autoloads.el" . 1047)
  ("c:/Users/Srikar/Desktop/emacs/workspace/.emacs.d/elpa/pyvenv-1.9/pyvenv-autoloads.el" . 1879)
